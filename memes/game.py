@@ -11,6 +11,7 @@ class Game:
         self.surface = pygame.display.set_mode((WINDOW_WIDTH,WINDOW_HEIGHT))
         self.surface.fill(WHITE)
 
+    
     def run(self):
         while self.running:
             for event in pygame.event.get():
