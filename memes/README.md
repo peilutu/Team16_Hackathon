@@ -2,7 +2,7 @@
 
 ## Team Members
 
-Peilu Tu, Abby Boggs, Rita Ochuba
+Peilu Tu, Abigiya Mesfin, Rita Chukwunyere Osi
 
 # Install Dependencies
 
